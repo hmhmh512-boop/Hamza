@@ -1,0 +1,6 @@
+{
+  "name": "الذكاء المصري المحلي - MasriAI",
+  "description": "تطبيق ذكاء اصطناعي يعمل محلياً بالكامل باستخدام WebGPU مع دعم كامل للهجة المصرية وتحديث دوري للمعلومات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
